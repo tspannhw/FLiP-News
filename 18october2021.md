@@ -7,3 +7,4 @@ Join @joshfischer1108, @ning_sf, @PaaSDev and @DavidKjerrumga1 on Twitch, Octobe
  
 https://t.co/12iDwXFaqa?amp=1
 
+Discussing Streaming, Apache Pulsar, Apache NiFi, Apache Flink, Apache Kafka.
