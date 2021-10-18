@@ -21,9 +21,11 @@ https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
 ### Recent Events
 
 * https://www.youtube.com/watch?v=DPxsNxsfY14
-
+* https://vimeo.com/628573854
+* https://www.youtube.com/watch?v=TP3VQ2rkvzg
 
 
 ### Upcoming Events
 
-https://www.linkedin.com/pulse/2021-schedule-tim-spann/
+* https://www.flink-forward.org/global-2021
+* https://www.linkedin.com/pulse/2021-schedule-tim-spann/
